@@ -1,0 +1,3 @@
+Hello world. This is a test.
+This test is for the word frequency analyzer.
+Hello again world. Testing one two three.
